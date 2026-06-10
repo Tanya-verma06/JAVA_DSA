@@ -18,6 +18,5 @@ public class SubsetArraylist {
         solve(s,0,"",arr);
         System.out.println(arr);
 
-
     }
 }
